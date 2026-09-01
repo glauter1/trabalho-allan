@@ -1,0 +1,29 @@
+{
+  "pessoas": [
+    {
+      "id": "1",
+      "nome": "João Silva",
+      "idade": 55,
+      "email": "joao78@email.com"
+    },
+    {
+      "id": "3",
+      "nome": "Carlos de Souza Oliveira",
+      "idade": 19,
+      "email": "carlosSouza@email.com"
+    },
+    {
+      "id": "GciUoCL3cBc",
+      "nome": "João Silva",
+      "idade": 55,
+      "email": "joao78@email.com"
+    },
+    {
+      "id": "6IpayIsPYJQ",
+      "nome": "Maria Suza",
+      "idade": 32,
+      "email": "maria97@email.com"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
