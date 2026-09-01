@@ -1,25 +1,29 @@
-
 # API de Pessoas
 
-Projeto acadêmico utilizando Express.js e JSON Server.
+Projeto acadêmico desenvolvido com Express.js e JSON Server.
 
 ## Instalação
+
 npm install
 
-## Executar JSON Server
+## Iniciar JSON Server
+
 npm run json-server
 
-## Executar API
+## Iniciar API
+
 npm run dev
 
-## Rotas
+## Rotas disponíveis
+
 GET /pessoas
 GET /pessoas/:id
 POST /pessoas
 PUT /pessoas/:id
 DELETE /pessoas/:id
 
-## Filtros
+## Filtros disponíveis
+
 GET /pessoas?idade=30
 GET /pessoas?idadeMin=18
 GET /pessoas?idadeMax=30
